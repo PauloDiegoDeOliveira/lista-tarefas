@@ -2,7 +2,7 @@
   <!-- Formulário de Login -->
   <form [formGroup]="loginForm" (ngSubmit)="onSubmitLoginForm()">
     <div class="card" *ngIf="loginCard">
-      <p class="subtitle">Faça login com sua conta existente!</p>
+      <p class="subtitle">Login</p>
       <div>
         <input type="email" placeholder="Email" formControlName="email" />
       </div>
@@ -19,8 +19,7 @@
   <!-- Formulário de Criação de Conta -->
   <form [formGroup]="signupForm" (ngSubmit)="onSubmitSignupForm()">
     <div class="card" *ngIf="!loginCard">
-      <h1 class="title">Criar conta</h1>
-      <p class="subtitle">Crie sua conta grátis!</p>
+      <p class="subtitle">Crie sua conta!</p>
       <div>
         <input type="text" placeholder="Nome" formControlName="name" />
       </div>
