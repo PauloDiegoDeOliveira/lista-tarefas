@@ -2,7 +2,6 @@
   <!-- Formulário de Login -->
   <form [formGroup]="loginForm" (ngSubmit)="onSubmitLoginForm()">
     <div class="card" *ngIf="loginCard">
-      <h1 class="title">Login</h1>
       <p class="subtitle">Faça login com sua conta existente!</p>
       <div>
         <input type="email" placeholder="Email" formControlName="email" />
