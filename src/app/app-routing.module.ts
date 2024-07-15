@@ -5,6 +5,13 @@ import { HomeComponent } from './modules/home/home.component';
 const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },
   { path: 'home', component: HomeComponent },
+  {
+    path: 'perfil',
+    loadChildren: () =>
+      import('./modules/perfil/perfil.component').then(
+        (m) => m.PerfilComponent
+      ),
+  },
   // {
   //   path: 'dashboard',
   //   loadChildren: () =>
