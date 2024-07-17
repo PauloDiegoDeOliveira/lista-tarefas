@@ -1,43 +1,53 @@
 import { CommonModule } from '@angular/common';
-import { OnDestroy } from '@angular/core';
-import { FormBuilder, Validators } from '@angular/forms';
+import { Component, OnDestroy } from '@angular/core';
+import { FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
 import { Subject, takeUntil } from 'rxjs';
 import { UserService } from '../../../services/user.service';
 import { AuthRequest } from '../../interfaces/user/auth/AuthRequest';
 import { SignupUserRequest } from '../../interfaces/user/SignupUserRequest';
+import { CookieService } from 'ngx-cookie-service';
+import { MessageService } from 'primeng/api';
 
 @Component({
   selector: 'app-home',
   standalone: true,
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.scss'],
-  imports: [CommonModule],
+  imports: [CommonModule, ReactiveFormsModule],
 })
 export class HomeComponent implements OnDestroy {
   private destroy$ = new Subject<void>();
   loginCard = true;
-  loginForm = this.formBuilder.group({
-    //Para login em conta existente
-    email: ['', Validators.required],
-    password: ['', Validators.required],
-  });
-  signupForm = this.formBuilder.group({
-    //Para criar uma conta
-    name: ['', Validators.required],
-    email: ['', Validators.required],
-    password: ['', Validators.required],
-  });
+  loginForm = this.createLoginForm();
+  signupForm = this.createSignupForm();
 
   constructor(
     private formBuilder: FormBuilder,
     private userService: UserService,
-    private cookieService: CookieService, //Biblioteca externa ngx-cookie-service
+    private cookieService: CookieService,
     private messageService: MessageService,
     private router: Router
   ) {}
 
-  //Para login em conta existente
+  private createLoginForm() {
+    return this.formBuilder.group({
+      // Para login em conta existente
+      email: ['', Validators.required],
+      password: ['', Validators.required],
+    });
+  }
+
+  private createSignupForm() {
+    return this.formBuilder.group({
+      // Para criar uma conta
+      name: ['', Validators.required],
+      email: ['', Validators.required],
+      password: ['', Validators.required],
+    });
+  }
+
+  // Para login em conta existente
   onSubmitLoginForm(): void {
     if (this.loginForm.value && this.loginForm.valid) {
       this.userService
@@ -46,12 +56,12 @@ export class HomeComponent implements OnDestroy {
         .subscribe({
           next: (response) => {
             if (response) {
-              //Após autenticar o login, guarda o token JWT recebido na response em um cookie:
-              this.cookieService.set('USER_INFO', response?.token); //Guardar o token nos cookies
+              // Após autenticar o login, guarda o token JWT recebido na response em um cookie:
+              this.cookieService.set('USER_INFO', response?.token); // Guardar o token nos cookies
               this.loginForm.reset();
               this.router.navigate(['/dashboard']);
 
-              //Exibe um popup com mensagem de login feito com sucesso ou falha:
+              // Exibe um popup com mensagem de login feito com sucesso ou falha:
               this.messageService.add({
                 severity: 'success',
                 summary: 'Sucesso',
@@ -73,9 +83,9 @@ export class HomeComponent implements OnDestroy {
     }
   }
 
-  //Para criar uma conta
+  // Para criar uma conta
   onSubmitSignupForm(): void {
-    //Value é se o formulário possui algum valor e Valid é caso tenha preenchido os campos
+    // Value é se o formulário possui algum valor e Valid é caso tenha preenchido os campos
     if (this.signupForm.value && this.signupForm.valid) {
       this.userService
         .signupUser(this.signupForm.value as SignupUserRequest)
@@ -83,8 +93,8 @@ export class HomeComponent implements OnDestroy {
         .subscribe({
           next: (response) => {
             if (response) {
-              this.signupForm.reset(); //Para limpar todos os campos do form após o envio
-              this.loginCard = true; //Para redirecionar ao form de login após criar o user
+              this.signupForm.reset(); // Para limpar todos os campos do form após o envio
+              this.loginCard = true; // Para redirecionar ao form de login após criar o user
               this.messageService.add({
                 severity: 'success',
                 summary: 'Sucesso',

@@ -6,33 +6,29 @@ import { SignupUserResponse } from '../modules/interfaces/user/SignupUserRespons
 import { SignupUserRequest } from '../modules/interfaces/user/SignupUserRequest';
 import { AuthRequest } from '../modules/interfaces/user/auth/AuthRequest';
 import { AuthResponse } from '../modules/interfaces/user/auth/AuthResponse';
+import { CookieService } from 'ngx-cookie-service';
 
 @Injectable({
-  providedIn: 'root', //Indica que este serviço pode ser usado em qualquer classe
+  providedIn: 'root',
 })
 export class UserService {
-  private API_URL = environment.API_URL; //de desenvolvimento
+  private apiUrl = environment.apiUrl;
 
   constructor(
     private http: HttpClient,
     private cookie: CookieService
   ) {}
 
-  //Criar um novo usuário ao clicar no botão 'criar conta':
   signupUser(requestDatas: SignupUserRequest): Observable<SignupUserResponse> {
-    return this.http.post<SignupUserResponse>(`${this.API_URL}/user`, requestDatas);
+    return this.http.post<SignupUserResponse>(`${this.apiUrl}/user`, requestDatas);
   }
 
-  //Autenticar um usuário criando um token JWT ao clicar no botão 'login':
   authUser(requestDatas: AuthRequest): Observable<AuthResponse> {
-    return this.http.post<AuthResponse>(`${this.API_URL}/auth`, requestDatas);
+    return this.http.post<AuthResponse>(`${this.apiUrl}/auth`, requestDatas);
   }
 
-  //Route guard (rotas protegidas)
   isloggedIn(): boolean {
-    //Verificar se o user possui um token nos cookies do browser
     const JWT_TOKEN = this.cookie.get('USER_INFO');
     return JWT_TOKEN ? true : false;
   }
-
 }
