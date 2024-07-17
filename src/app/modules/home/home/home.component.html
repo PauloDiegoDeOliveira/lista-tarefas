@@ -1,0 +1,41 @@
+<div class="container">
+  <!-- Formulário de Login -->
+  <form [formGroup]="loginForm" (ngSubmit)="onSubmitLoginForm()">
+    <div class="card" *ngIf="loginCard">
+      <p class="subtitle">Login</p>
+      <div>
+        <input type="email" placeholder="Email" formControlName="email" />
+      </div>
+      <div>
+        <input type="password" placeholder="Senha" formControlName="password" />
+      </div>
+      <div>
+        <button type="submit" [disabled]="!loginForm.valid">Login</button>
+      </div>
+      <a href="#" class="login-card" (click)="loginCard = !loginCard">Criar conta</a>
+    </div>
+  </form>
+
+  <!-- Formulário de Criação de Conta -->
+  <form [formGroup]="signupForm" (ngSubmit)="onSubmitSignupForm()">
+    <div class="card" *ngIf="!loginCard">
+      <p class="subtitle">Crie sua conta!</p>
+      <div>
+        <input type="text" placeholder="Nome" formControlName="name" />
+      </div>
+      <div>
+        <input type="email" placeholder="Email" formControlName="email" />
+      </div>
+      <div>
+        <input type="password" placeholder="Senha" formControlName="password" />
+      </div>
+      <div>
+        <input type="password" placeholder="Repetir Senha" formControlName="confirmPassword" />
+      </div>
+      <div>
+        <button type="submit" [disabled]="!signupForm.valid">Criar conta</button>
+      </div>
+      <a href="#" class="login-card" (click)="loginCard = !loginCard">Fazer login</a>
+    </div>
+  </form>
+</div>
