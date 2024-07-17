@@ -1,32 +1,32 @@
 /* To learn more about Typescript configuration file: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html. */
 /* To learn more about Angular compiler options: https://angular.dev/reference/configs/angular-compiler-options. */
 {
-  "compileOnSave": false,
+  "compileOnSave": false, // Não recompilar o projeto automaticamente ao salvar
   "compilerOptions": {
-    "outDir": "./dist/out-tsc",
-    "strict": true,
-    "noImplicitOverride": true,
-    "noPropertyAccessFromIndexSignature": true,
-    "noImplicitReturns": true,
-    "noFallthroughCasesInSwitch": true,
-    "skipLibCheck": true,
-    "esModuleInterop": true,
-    "sourceMap": true,
-    "declaration": false,
-    "experimentalDecorators": true,
-    "moduleResolution": "bundler",
-    "importHelpers": true,
-    "target": "ES2022",
-    "module": "ES2022",
+    "outDir": "./dist/out-tsc", // Diretório de saída para os arquivos compilados
+    "strict": true, // Ativa todas as opções de verificação estrita
+    "noImplicitOverride": true, // Gera erro quando métodos sobrescritos não têm a palavra-chave 'override'
+    "noPropertyAccessFromIndexSignature": true, // Impede acesso a propriedades via assinatura de índice
+    "noImplicitReturns": true, // Gera erro se uma função não retorna explicitamente um valor em todos os caminhos de código
+    "noFallthroughCasesInSwitch": true, // Gera erro se um caso de switch cai para o próximo caso sem um break
+    "skipLibCheck": true, // Ignora verificação de tipo de declarações em arquivos .d.ts
+    "esModuleInterop": true, // Habilita interoperabilidade com módulos ES
+    "sourceMap": true, // Gera arquivos de mapa de origem para depuração
+    "declaration": false, // Não gera arquivos de declaração .d.ts
+    "experimentalDecorators": true, // Habilita suporte para decoradores
+    "moduleResolution": "bundler", // Usa resolução de módulo do bundler
+    "importHelpers": true, // Importa funções auxiliares de compilação de tslib
+    "target": "ES2022", // Define a versão do ECMAScript para saída
+    "module": "ES2022", // Define o módulo ECMAScript para saída
     "lib": [
       "ES2022",
-      "dom"
+      "dom" // Inclui definições de biblioteca para ES2022 e DOM
     ]
   },
   "angularCompilerOptions": {
-    "enableI18nLegacyMessageIdFormat": false,
-    "strictInjectionParameters": true,
-    "strictInputAccessModifiers": true,
-    "strictTemplates": true
+    "enableI18nLegacyMessageIdFormat": false, // Desativa o formato legado de IDs de mensagem de i18n
+    "strictInjectionParameters": true, // Exige que todos os parâmetros de injeção sejam explicitamente anotados
+    "strictInputAccessModifiers": true, // Torna obrigatório o uso de modificadores de acesso explícitos em inputs
+    "strictTemplates": true // Ativa verificações estritas em templates
   }
 }
