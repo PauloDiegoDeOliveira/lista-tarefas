@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { PrimeNGConfig } from 'primeng/api';
+import { MessageService, PrimeNGConfig } from 'primeng/api';
 import { HomeComponent } from './modules/home/home/home.component';
 import { ToastModule } from 'primeng/toast';
 
@@ -10,7 +10,7 @@ import { ToastModule } from 'primeng/toast';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
   imports: [RouterOutlet, HomeComponent, ToastModule],
-  providers: [PrimeNGConfig]
+  providers: [PrimeNGConfig, MessageService]
 })
 export class AppComponent {
   title = 'tarefas';
