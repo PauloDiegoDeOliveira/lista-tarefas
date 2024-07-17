@@ -26,7 +26,7 @@ export class HomeComponent implements OnDestroy {
   constructor(
     private formBuilder: FormBuilder,
     private userService: UserService,
-    private cookieService: CookieService, //Biblioteca externa ngx-cookie-service
+    private cookieService: CookieService,
     private messageService: MessageService,
     private router: Router
   ) {
@@ -41,6 +41,7 @@ export class HomeComponent implements OnDestroy {
       name: ['', Validators.required],
       email: ['', Validators.required],
       password: ['', Validators.required],
+      confirmPassword: ['', Validators.required],
     });
   }
 
