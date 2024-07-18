@@ -1099,11 +1099,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos back end\\Tarefas\\Tarefas.Domain.Services\\Tarefas.Domain.Services.csproj",
+      "projectUniqueName": "D:\\Front\\lista-tarefas\\Tarefas.Domain.Services\\Tarefas.Domain.Services.csproj",
       "projectName": "Tarefas.Domain.Services",
-      "projectPath": "D:\\Projetos back end\\Tarefas\\Tarefas.Domain.Services\\Tarefas.Domain.Services.csproj",
+      "projectPath": "D:\\Front\\lista-tarefas\\Tarefas.Domain.Services\\Tarefas.Domain.Services.csproj",
       "packagesPath": "C:\\Users\\111575.MGR\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos back end\\Tarefas\\Tarefas.Domain.Services\\obj\\",
+      "outputPath": "D:\\Front\\lista-tarefas\\Tarefas.Domain.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1126,11 +1126,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projetos back end\\Tarefas\\Tarefas.Domain.Core\\Tarefas.Domain.Core.csproj": {
-              "projectPath": "D:\\Projetos back end\\Tarefas\\Tarefas.Domain.Core\\Tarefas.Domain.Core.csproj"
+            "D:\\Front\\lista-tarefas\\Tarefas.Domain.Core\\Tarefas.Domain.Core.csproj": {
+              "projectPath": "D:\\Front\\lista-tarefas\\Tarefas.Domain.Core\\Tarefas.Domain.Core.csproj"
             },
-            "D:\\Projetos back end\\Tarefas\\Tarefas.Domain\\Tarefas.Domain.csproj": {
-              "projectPath": "D:\\Projetos back end\\Tarefas\\Tarefas.Domain\\Tarefas.Domain.csproj"
+            "D:\\Front\\lista-tarefas\\Tarefas.Domain\\Tarefas.Domain.csproj": {
+              "projectPath": "D:\\Front\\lista-tarefas\\Tarefas.Domain\\Tarefas.Domain.csproj"
             }
           }
         }

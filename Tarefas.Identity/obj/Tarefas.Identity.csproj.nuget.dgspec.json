@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos back end\\Tarefas\\Tarefas.Identity\\Tarefas.Identity.csproj": {}
+    "D:\\Front\\lista-tarefas\\Tarefas.Identity\\Tarefas.Identity.csproj": {}
   },
   "projects": {
-    "D:\\Projetos back end\\Tarefas\\Tarefas.Identity\\Tarefas.Identity.csproj": {
+    "D:\\Front\\lista-tarefas\\Tarefas.Identity\\Tarefas.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos back end\\Tarefas\\Tarefas.Identity\\Tarefas.Identity.csproj",
+        "projectUniqueName": "D:\\Front\\lista-tarefas\\Tarefas.Identity\\Tarefas.Identity.csproj",
         "projectName": "Tarefas.Identity",
-        "projectPath": "D:\\Projetos back end\\Tarefas\\Tarefas.Identity\\Tarefas.Identity.csproj",
+        "projectPath": "D:\\Front\\lista-tarefas\\Tarefas.Identity\\Tarefas.Identity.csproj",
         "packagesPath": "C:\\Users\\111575.MGR\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos back end\\Tarefas\\Tarefas.Identity\\obj\\",
+        "outputPath": "D:\\Front\\lista-tarefas\\Tarefas.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
