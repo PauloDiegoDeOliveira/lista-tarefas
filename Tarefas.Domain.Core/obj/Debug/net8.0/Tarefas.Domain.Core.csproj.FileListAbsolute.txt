@@ -13,3 +13,19 @@ D:\Projetos back end\Tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\Tarefas.Domain
 D:\Projetos back end\Tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\refint\Tarefas.Domain.Core.dll
 D:\Projetos back end\Tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\Tarefas.Domain.Core.pdb
 D:\Projetos back end\Tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\ref\Tarefas.Domain.Core.dll
+D:\Front\lista-tarefas\Tarefas.Domain.Core\bin\Debug\net8.0\Tarefas.Domain.Core.deps.json
+D:\Front\lista-tarefas\Tarefas.Domain.Core\bin\Debug\net8.0\Tarefas.Domain.Core.dll
+D:\Front\lista-tarefas\Tarefas.Domain.Core\bin\Debug\net8.0\Tarefas.Domain.Core.pdb
+D:\Front\lista-tarefas\Tarefas.Domain.Core\bin\Debug\net8.0\Tarefas.Domain.dll
+D:\Front\lista-tarefas\Tarefas.Domain.Core\bin\Debug\net8.0\Tarefas.Domain.pdb
+D:\Front\lista-tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\Tarefas.Domain.Core.csproj.AssemblyReference.cache
+D:\Front\lista-tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\Tarefas.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front\lista-tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\Tarefas.Domain.Core.AssemblyInfoInputs.cache
+D:\Front\lista-tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\Tarefas.Domain.Core.AssemblyInfo.cs
+D:\Front\lista-tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\Tarefas.Domain.Core.csproj.CoreCompileInputs.cache
+D:\Front\lista-tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\Tarefas.Domain.Core.sourcelink.json
+D:\Front\lista-tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\Tarefas..0C8770AC.Up2Date
+D:\Front\lista-tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\Tarefas.Domain.Core.dll
+D:\Front\lista-tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\refint\Tarefas.Domain.Core.dll
+D:\Front\lista-tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\Tarefas.Domain.Core.pdb
+D:\Front\lista-tarefas\Tarefas.Domain.Core\obj\Debug\net8.0\ref\Tarefas.Domain.Core.dll

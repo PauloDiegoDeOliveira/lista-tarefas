@@ -15,3 +15,21 @@ D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Do
 D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\refint\Tarefas.Domain.Services.dll
 D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.pdb
 D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\ref\Tarefas.Domain.Services.dll
+D:\Front\lista-tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.Services.deps.json
+D:\Front\lista-tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.Services.dll
+D:\Front\lista-tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.Services.pdb
+D:\Front\lista-tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.Core.dll
+D:\Front\lista-tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.dll
+D:\Front\lista-tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.Core.pdb
+D:\Front\lista-tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.pdb
+D:\Front\lista-tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.csproj.AssemblyReference.cache
+D:\Front\lista-tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front\lista-tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.AssemblyInfoInputs.cache
+D:\Front\lista-tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.AssemblyInfo.cs
+D:\Front\lista-tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.csproj.CoreCompileInputs.cache
+D:\Front\lista-tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.sourcelink.json
+D:\Front\lista-tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas..18E92C24.Up2Date
+D:\Front\lista-tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.dll
+D:\Front\lista-tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\refint\Tarefas.Domain.Services.dll
+D:\Front\lista-tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.pdb
+D:\Front\lista-tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\ref\Tarefas.Domain.Services.dll

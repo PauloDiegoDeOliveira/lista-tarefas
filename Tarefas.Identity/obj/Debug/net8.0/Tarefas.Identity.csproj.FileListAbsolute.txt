@@ -10,3 +10,16 @@ D:\Projetos back end\Tarefas\Tarefas.Identity\obj\Debug\net8.0\Tarefas.Identity.
 D:\Projetos back end\Tarefas\Tarefas.Identity\obj\Debug\net8.0\refint\Tarefas.Identity.dll
 D:\Projetos back end\Tarefas\Tarefas.Identity\obj\Debug\net8.0\Tarefas.Identity.pdb
 D:\Projetos back end\Tarefas\Tarefas.Identity\obj\Debug\net8.0\ref\Tarefas.Identity.dll
+D:\Front\lista-tarefas\Tarefas.Identity\bin\Debug\net8.0\Tarefas.Identity.deps.json
+D:\Front\lista-tarefas\Tarefas.Identity\bin\Debug\net8.0\Tarefas.Identity.dll
+D:\Front\lista-tarefas\Tarefas.Identity\bin\Debug\net8.0\Tarefas.Identity.pdb
+D:\Front\lista-tarefas\Tarefas.Identity\obj\Debug\net8.0\Tarefas.Identity.csproj.AssemblyReference.cache
+D:\Front\lista-tarefas\Tarefas.Identity\obj\Debug\net8.0\Tarefas.Identity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front\lista-tarefas\Tarefas.Identity\obj\Debug\net8.0\Tarefas.Identity.AssemblyInfoInputs.cache
+D:\Front\lista-tarefas\Tarefas.Identity\obj\Debug\net8.0\Tarefas.Identity.AssemblyInfo.cs
+D:\Front\lista-tarefas\Tarefas.Identity\obj\Debug\net8.0\Tarefas.Identity.csproj.CoreCompileInputs.cache
+D:\Front\lista-tarefas\Tarefas.Identity\obj\Debug\net8.0\Tarefas.Identity.sourcelink.json
+D:\Front\lista-tarefas\Tarefas.Identity\obj\Debug\net8.0\Tarefas.Identity.dll
+D:\Front\lista-tarefas\Tarefas.Identity\obj\Debug\net8.0\refint\Tarefas.Identity.dll
+D:\Front\lista-tarefas\Tarefas.Identity\obj\Debug\net8.0\Tarefas.Identity.pdb
+D:\Front\lista-tarefas\Tarefas.Identity\obj\Debug\net8.0\ref\Tarefas.Identity.dll

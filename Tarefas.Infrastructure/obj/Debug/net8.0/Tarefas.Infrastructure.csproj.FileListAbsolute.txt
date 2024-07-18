@@ -23,3 +23,29 @@ D:\Projetos back end\Tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\refint\Tare
 D:\Projetos back end\Tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas.Infrastructure.pdb
 D:\Projetos back end\Tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas.Infrastructure.genruntimeconfig.cache
 D:\Projetos back end\Tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\ref\Tarefas.Infrastructure.dll
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Infrastructure.deps.json
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Infrastructure.runtimeconfig.json
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Infrastructure.dll
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Infrastructure.pdb
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Application.dll
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Domain.Core.dll
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Domain.dll
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Domain.Services.dll
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Identity.dll
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Application.pdb
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Domain.Core.pdb
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Domain.Services.pdb
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Domain.pdb
+D:\Front\lista-tarefas\Tarefas.Infrastructure\bin\Debug\net8.0\Tarefas.Identity.pdb
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas.Infrastructure.csproj.AssemblyReference.cache
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas.Infrastructure.AssemblyInfoInputs.cache
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas.Infrastructure.AssemblyInfo.cs
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas.Infrastructure.sourcelink.json
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas..AEDEBB99.Up2Date
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas.Infrastructure.dll
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\refint\Tarefas.Infrastructure.dll
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas.Infrastructure.pdb
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\Tarefas.Infrastructure.genruntimeconfig.cache
+D:\Front\lista-tarefas\Tarefas.Infrastructure\obj\Debug\net8.0\ref\Tarefas.Infrastructure.dll

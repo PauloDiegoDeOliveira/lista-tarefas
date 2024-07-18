@@ -10,3 +10,16 @@ D:\Projetos back end\Tarefas\Tarefas.Domain\obj\Debug\net8.0\Tarefas.Domain.dll
 D:\Projetos back end\Tarefas\Tarefas.Domain\obj\Debug\net8.0\refint\Tarefas.Domain.dll
 D:\Projetos back end\Tarefas\Tarefas.Domain\obj\Debug\net8.0\Tarefas.Domain.pdb
 D:\Projetos back end\Tarefas\Tarefas.Domain\obj\Debug\net8.0\ref\Tarefas.Domain.dll
+D:\Front\lista-tarefas\Tarefas.Domain\bin\Debug\net8.0\Tarefas.Domain.deps.json
+D:\Front\lista-tarefas\Tarefas.Domain\bin\Debug\net8.0\Tarefas.Domain.dll
+D:\Front\lista-tarefas\Tarefas.Domain\bin\Debug\net8.0\Tarefas.Domain.pdb
+D:\Front\lista-tarefas\Tarefas.Domain\obj\Debug\net8.0\Tarefas.Domain.csproj.AssemblyReference.cache
+D:\Front\lista-tarefas\Tarefas.Domain\obj\Debug\net8.0\Tarefas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front\lista-tarefas\Tarefas.Domain\obj\Debug\net8.0\Tarefas.Domain.AssemblyInfoInputs.cache
+D:\Front\lista-tarefas\Tarefas.Domain\obj\Debug\net8.0\Tarefas.Domain.AssemblyInfo.cs
+D:\Front\lista-tarefas\Tarefas.Domain\obj\Debug\net8.0\Tarefas.Domain.csproj.CoreCompileInputs.cache
+D:\Front\lista-tarefas\Tarefas.Domain\obj\Debug\net8.0\Tarefas.Domain.sourcelink.json
+D:\Front\lista-tarefas\Tarefas.Domain\obj\Debug\net8.0\Tarefas.Domain.dll
+D:\Front\lista-tarefas\Tarefas.Domain\obj\Debug\net8.0\refint\Tarefas.Domain.dll
+D:\Front\lista-tarefas\Tarefas.Domain\obj\Debug\net8.0\Tarefas.Domain.pdb
+D:\Front\lista-tarefas\Tarefas.Domain\obj\Debug\net8.0\ref\Tarefas.Domain.dll

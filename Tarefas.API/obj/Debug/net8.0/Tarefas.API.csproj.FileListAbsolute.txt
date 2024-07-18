@@ -5,3 +5,11 @@ D:\Projetos back end\Tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.AssemblyIn
 D:\Projetos back end\Tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.csproj.CoreCompileInputs.cache
 D:\Projetos back end\Tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Projetos back end\Tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Front\lista-tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.csproj.AssemblyReference.cache
+D:\Front\lista-tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front\lista-tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.AssemblyInfoInputs.cache
+D:\Front\lista-tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.AssemblyInfo.cs
+D:\Front\lista-tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.csproj.CoreCompileInputs.cache
+D:\Front\lista-tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Front\lista-tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Front\lista-tarefas\Tarefas.API\obj\Debug\net8.0\Tarefas.API.sourcelink.json

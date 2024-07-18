@@ -17,3 +17,23 @@ D:\Projetos back end\Tarefas\Tarefas.Application\obj\Debug\net8.0\Tarefas.Applic
 D:\Projetos back end\Tarefas\Tarefas.Application\obj\Debug\net8.0\refint\Tarefas.Application.dll
 D:\Projetos back end\Tarefas\Tarefas.Application\obj\Debug\net8.0\Tarefas.Application.pdb
 D:\Projetos back end\Tarefas\Tarefas.Application\obj\Debug\net8.0\ref\Tarefas.Application.dll
+D:\Front\lista-tarefas\Tarefas.Application\bin\Debug\net8.0\Tarefas.Application.deps.json
+D:\Front\lista-tarefas\Tarefas.Application\bin\Debug\net8.0\Tarefas.Application.dll
+D:\Front\lista-tarefas\Tarefas.Application\bin\Debug\net8.0\Tarefas.Application.pdb
+D:\Front\lista-tarefas\Tarefas.Application\bin\Debug\net8.0\Tarefas.Domain.Core.dll
+D:\Front\lista-tarefas\Tarefas.Application\bin\Debug\net8.0\Tarefas.Domain.dll
+D:\Front\lista-tarefas\Tarefas.Application\bin\Debug\net8.0\Tarefas.Identity.dll
+D:\Front\lista-tarefas\Tarefas.Application\bin\Debug\net8.0\Tarefas.Domain.Core.pdb
+D:\Front\lista-tarefas\Tarefas.Application\bin\Debug\net8.0\Tarefas.Identity.pdb
+D:\Front\lista-tarefas\Tarefas.Application\bin\Debug\net8.0\Tarefas.Domain.pdb
+D:\Front\lista-tarefas\Tarefas.Application\obj\Debug\net8.0\Tarefas.Application.csproj.AssemblyReference.cache
+D:\Front\lista-tarefas\Tarefas.Application\obj\Debug\net8.0\Tarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front\lista-tarefas\Tarefas.Application\obj\Debug\net8.0\Tarefas.Application.AssemblyInfoInputs.cache
+D:\Front\lista-tarefas\Tarefas.Application\obj\Debug\net8.0\Tarefas.Application.AssemblyInfo.cs
+D:\Front\lista-tarefas\Tarefas.Application\obj\Debug\net8.0\Tarefas.Application.csproj.CoreCompileInputs.cache
+D:\Front\lista-tarefas\Tarefas.Application\obj\Debug\net8.0\Tarefas.Application.sourcelink.json
+D:\Front\lista-tarefas\Tarefas.Application\obj\Debug\net8.0\Tarefas..C13DF67B.Up2Date
+D:\Front\lista-tarefas\Tarefas.Application\obj\Debug\net8.0\Tarefas.Application.dll
+D:\Front\lista-tarefas\Tarefas.Application\obj\Debug\net8.0\refint\Tarefas.Application.dll
+D:\Front\lista-tarefas\Tarefas.Application\obj\Debug\net8.0\Tarefas.Application.pdb
+D:\Front\lista-tarefas\Tarefas.Application\obj\Debug\net8.0\ref\Tarefas.Application.dll
