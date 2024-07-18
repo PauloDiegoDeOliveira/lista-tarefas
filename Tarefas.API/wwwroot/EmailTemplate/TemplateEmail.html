@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{titulo}}</title>
+    <style>
+        body, h1, div, p {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            color: #333333;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #0655A9;
+            color: #FFFFFF;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 5px solid #033E6B;
+        }
+
+            header h1 {
+                font-size: 16px;
+            }
+
+                header h1 img {
+                    height: 40px;
+                    vertical-align: middle;
+                    margin-right: 10px;
+                }
+
+        .container {
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #FFFFFF;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: 80%;
+            max-width: 600px;
+        }
+
+            .container p {
+                font-size: 16px;
+                line-height: 1.6;
+                margin-bottom: 20px;
+            }
+
+            .container a {
+                color: #0655A9;
+                text-decoration: none;
+            }
+
+                .container a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>{{titulo}}</h1>
+    </header>
+    <main class="container">
+        {{corpo}}
+    </main>
+</body>
+</html>
