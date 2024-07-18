@@ -1,0 +1,17 @@
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.Services.deps.json
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.Services.dll
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.Services.pdb
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.Core.dll
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.dll
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.Core.pdb
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\bin\Debug\net8.0\Tarefas.Domain.pdb
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.csproj.AssemblyReference.cache
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.AssemblyInfoInputs.cache
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.AssemblyInfo.cs
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.csproj.CoreCompileInputs.cache
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas..18E92C24.Up2Date
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.dll
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\refint\Tarefas.Domain.Services.dll
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\Tarefas.Domain.Services.pdb
+D:\Projetos back end\Tarefas\Tarefas.Domain.Services\obj\Debug\net8.0\ref\Tarefas.Domain.Services.dll
